@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 You just bumped into my Github. 
+
+I am Associate Professor at the University of Savoie Mont-Blanc.
 
 <!--
 **mphuget/mphuget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
