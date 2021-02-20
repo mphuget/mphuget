@@ -6,7 +6,7 @@ This Github repository reflects what I do as teaching and in Research.
 
 ### Technology Stack:
 
-[<img align="left" alt="Ionic" width="60px" src="https://ionicframework.com/img/meta/ionic-framework-og.png" />]
+<img align="left" alt="Ionic" width="60px" src="https://ionicframework.com/img/meta/ionic-framework-og.png" />
 
 <!--
 **mphuget/mphuget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
