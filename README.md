@@ -4,6 +4,14 @@ I am Associate Professor at the University of Savoie Mont-Blanc.
 
 This Github repository reflects what I do as teaching and in Research.
 
+### Main interest and activities in Research
+
+[<code>
+<img alt="Chess" width="26px" src="https://www.freeiconspng.com/thumbs/chess-icon/chess-icon-28.png">
+</code>](https://www.chessprogramming.org/Main_Page)
+
+
+
 ### Technology Stack:
 
 [<code>
