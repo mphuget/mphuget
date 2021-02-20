@@ -13,9 +13,12 @@ This Github repository reflects what I do as teaching and in Research.
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
-<img alt="ionic" width="26px" src="https://img.icons8.com/color/240/000000/ionic.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<img alt="ionic" width="26px" src="https://img.icons8.com/ios-filled/2x/ionic.png" />
+</code>](https://ionicframework.com/)
 [<code>
+<img alt="angular" width="26px" src="https://www.iconspng.com/uploads/angular/angular.png" />
+</code>](https://angular.io/)
+[<code> 
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
 [<code>
