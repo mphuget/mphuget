@@ -21,6 +21,12 @@ This Github repository reflects what I do as teaching and in Research.
 [<code> 
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
+[<code> 
+<img alt="mongodb" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
+</code>](https://www.mongodb.com/)
+[<code> 
+<img alt="redis" width="26px" src="https://img.icons8.com/color/452/redis.png" />
+</code>](https://redislabs.com/)
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
