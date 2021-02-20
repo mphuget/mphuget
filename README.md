@@ -6,11 +6,28 @@ This Github repository reflects what I do as teaching and in Research.
 
 ### Technology Stack:
 
-<img align="left" alt="Ionic" width="60px" src="https://ionicframework.com/img/meta/ionic-framework-og.png" />
-<img align="left" alt="Angular" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="React" width="60px" src="https://wpintegrate.com/wp-content/uploads/2017/07/react-logo.png" />
-<img align="left" alt="MongoDB" width="60px" src="http://blog.ippon.fr/content/images/2018/12/mongodb-logo-rgb.jpg" />
-<img aligne="left" alt="Redis" width="60px" src="https://cdn.auth0.com/blog/logos/redis-icon-logo.png" />
+[<code>
+<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+</code>](https://nodejs.org/en/)
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+</code>](https://reactjs.org/)
+[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>](https://www.python.org/)
+[<code>
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+</code>](https://www.typescriptlang.org/)
+[<code>
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code>
+<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 <!--
 **mphuget/mphuget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
