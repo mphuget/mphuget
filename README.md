@@ -11,6 +11,12 @@ This Github repository reflects what I do as teaching and in Research.
 </code>](https://www.chessprogramming.org/Main_Page)
 
 
+[<code>
+<img alt="Reinforcement Learning" width="80px" src="https://www.kdnuggets.com/images/reinforcement-learning-fig1-700.jpg">
+</code>](http://incompleteideas.net/book/the-book.html)
+
+
+
 
 ### Technology Stack:
 
