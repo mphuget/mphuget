@@ -6,11 +6,12 @@ This Github repository reflects what I do as teaching and in Research.
 
 ### Main interest and activities in Research
 
+#### Chess programming
 [<code>
 <img alt="Chess" width="80px" src="https://www.freeiconspng.com/thumbs/chess-icon/chess-icon-28.png">
 </code>](https://www.chessprogramming.org/Main_Page)
 
-
+#### (Multiagent) Reinforcement Learning
 [<code>
 <img alt="Reinforcement Learning" width="240px" src="https://www.kdnuggets.com/images/reinforcement-learning-fig1-700.jpg">
 </code>](http://incompleteideas.net/book/the-book.html)
