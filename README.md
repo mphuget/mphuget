@@ -11,6 +11,10 @@ This Github repository reflects what I do as teaching and in Research.
 <img alt="Chess" width="80px" src="https://www.freeiconspng.com/thumbs/chess-icon/chess-icon-28.png">
 </code>](https://www.chessprogramming.org/Main_Page)
 
+1. Polychess(https://github.com/mphuget/polychess): this chess engine based on python-chess is used as didactic work for students
+2. La Dame Blanche (old version here: (https://ccrl.chessdom.com/ccrl/4040/cgi/engine_details.cgi?print=Details&each_game=1&eng=La%20Dame%20Blanche%202.0c), around 2000 ELO at CCRL 40/15
+
+
 #### (Multiagent) Reinforcement Learning
 [<code>
 <img alt="Reinforcement Learning" width="240px" src="https://www.kdnuggets.com/images/reinforcement-learning-fig1-700.jpg">
